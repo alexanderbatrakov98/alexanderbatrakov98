@@ -11,12 +11,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alexanderbatrakov98&show_icons=true&theme=radical" alt="Статистика GitHub" />
 </p>
 
-## 🧑‍💻 О себе
+## 🧑‍💻 О себе (Russian)
+(Russian)
 Привет! Меня зовут Alexander Batrakov, я занимаюсь программированием(это мое хобби). У меня есть опыт работы с различными языками программирования. 
 Пишу плагины для серверов left 4 dead 1+2 части, так же напишу игровой мод для вашего SAMP сервера.
 Напишу лаунчер для вашего проекта SAMP - CRMP на языке программирования php.
 В данный момент изучаю <img src="https://img.shields.io/badge/Language-Python-blue" alt="Python" />.
 Готов сотрудничать с любым проектом SAMP - CRMP так же с проектами Left 4 Dead.
+## 🧑‍💻 About Me (English)
+Hello! My name is Alexander Batrakov, I do programming (this is my hobby). I have experience with various programming languages. 
+I am writing plugins for left 4 dead 1+2 parts servers, I will also write a game mod for your SAMP server.
+I will write a launcher for your SAMP - CRMP project in the php programming language.
+Currently studying <img src="https://img.shields.io/badge/Language-Python-blue" alt="Python" />.
+I am ready to cooperate with any SAMP - CRMP project, as well as with Left 4 Dead projects.
 
 ## 🚀 Мои навыки
 <p align="left">
